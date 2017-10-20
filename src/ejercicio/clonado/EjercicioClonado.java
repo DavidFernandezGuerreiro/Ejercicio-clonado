@@ -17,7 +17,7 @@ public class EjercicioClonado {
     public static void main(String[] args) {
         System.out.println("HOLA MUNDO");
         System.out.println("CLONADO");
-        System.out.println("CLONADOOOOOOOOO");
+        System.out.println(3+3*3);
     }
     
 }
